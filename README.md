@@ -26,7 +26,7 @@ yarn dev
 
 ## The Task
 
-In the file [/server/api/controllers/applications/controller.js](/server/api/controllers/applications/controller.js) there are 3 tasks
+In the file [/server/api/controllers/applications/router.js](/server/api/controllers/applications/router.js) there are 3 tasks
 
 #### Task 1
 There is a bug in the route for get by Id. Find and fix that bug
