@@ -63,14 +63,14 @@ View prettier linter output
 yarn lint
 ```
 
-#### The Task
+## The Task
 
 xxx
 
-## Requirements
+#### Requirements
 
 
-#### Guidelines
+## Guidelines
 
 **Note: Please do NOT spend more than 2 hours on this test.**
 We are interested in your coding style and how you solve problems - if you do not 100% finish the task, 
@@ -83,7 +83,7 @@ Please structure the code for reusability
 Feel free to use any frameworks, preprocessors, or tools you are familiar with
 
 
-#### Submission
+## Submission
 Please submit a complete copy of the source code you wrote for this test.
 
 **Note: Please do NOT submit your solution publicly / on github.**
