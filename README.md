@@ -10,33 +10,6 @@ yarn
 
 # run in development mode
 yarn dev
-
-# run tests
-yarn test
-```
-
-## Install Dependencies
-
-Install all package dependencies (one time operation)
-
-```shell
-yarn
-```
-
-## Run It
-
-#### Run in _development_ mode:
-
-Runs the application is development mode. Should not be used in production
-
-```shell
-yarn dev
-```
-
-or debug it
-
-```shell
-yarn dev:debug
 ```
 
 #### Run in _production_ mode:
@@ -54,12 +27,6 @@ Run the Mocha unit tests
 
 ```shell
 yarn test
-```
-
-or debug them
-
-```shell
-yarn test:debug
 ```
 
 ## Try It
@@ -96,8 +63,29 @@ View prettier linter output
 yarn lint
 ```
 
-Fix all prettier linter errors
+#### The Task
 
-```
-yarn lint
-```
+xxx
+
+## Requirements
+
+
+#### Guidelines
+
+**Note: Please do NOT spend more than 2 hours on this test.**
+We are interested in your coding style and how you solve problems - if you do not 100% finish the task, 
+we would rather you submit what you've completed with notes on what you would do if you had additional
+time.
+
+Please include your source code and any build steps / explanations we may need to test the submission
+Please make sure your code is executable, and all dependencies are included
+Please structure the code for reusability
+Feel free to use any frameworks, preprocessors, or tools you are familiar with
+
+
+#### Submission
+Please submit a complete copy of the source code you wrote for this test.
+
+**Note: Please do NOT submit your solution publicly / on github.**
+
+The easiest way to submit this is to upload a zip onto google drive and provide a link to the recruiter.
