@@ -6,5 +6,5 @@ export default express
   .post("/", controller.create)
   .get("/", controller.all)
   .get("/:id", controller.byId); // Fix bug for get by id;
-// Add put request to edit application
-// Add delete request to delete application
+// Add a request to edit application
+// Add a request to delete application
