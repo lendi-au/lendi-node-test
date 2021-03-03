@@ -48,10 +48,10 @@ We are interested in your coding style and how you solve problems - if you do no
 we would rather you submit what you've completed with notes on what you would do if you had additional
 time.
 
-Please include your source code and any build steps / explanations we may need to test the submission
-Please make sure your code is executable, and all dependencies are included
-Please structure the code for reusability
-Feel free to use any frameworks, preprocessors, or tools you are familiar with
+- Please include your source code and any build steps / explanations we may need to test the submission
+- Please make sure your code is executable, and all dependencies are included
+- Please structure the code for reusability
+- Feel free to use any frameworks, preprocessors, or tools you are familiar with
 
 
 ## Submission
