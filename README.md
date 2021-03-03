@@ -1,6 +1,8 @@
 # Lendi Technical Assignment
 
-## Get Started
+#### Get Started
+
+## Run It
 
 Get started developing...
 
@@ -12,7 +14,7 @@ yarn
 yarn dev
 ```
 
-#### Run in _production_ mode:
+## Run in _production_ mode:
 
 Compiles the application and starts it in production production mode.
 
@@ -55,13 +57,6 @@ yarn test:debug
 
 Add these [contents](https://github.com/cdimascio/generator-express-no-stress/blob/next/assets/.vscode/launch.json) to your `.vscode/launch.json` file
 
-## Lint It
-
-View prettier linter output
-
-```
-yarn lint
-```
 
 ## The Task
 
