@@ -59,7 +59,8 @@ Please submit a complete copy of the source code you wrote for this test.
 
 **Note: Please do NOT submit your solution publicly / on github.**
 
-The easiest way to submit this is to upload a zip onto google drive and provide a link to the recruiter.
+Submit via the following link: https://forms.gle/4qyjgndM7WX3oXoR7
+If that fails, please upload a zip onto google drive and provide a link to the recruiter.
 
 
 
